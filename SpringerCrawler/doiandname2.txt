@@ -1,0 +1,590 @@
+A Basic Course in Probability Theory
+$59.99
+doi:10.1007/978-3-319-47974-3
+Hölder and locally Hölder Continuous Functions, and Open Sets of Class C^k, C^{k,lambda}
+$54.99
+doi:10.1007/978-3-319-47940-8
+Introduction to Partial Differential Equations
+$39.99
+doi:10.1007/978-3-319-48936-0
+Dynamic Optimization
+$79.99
+doi:10.1007/978-3-319-48814-1
+Optimal Control
+$64.99
+doi:10.1007/978-3-319-49781-5
+Numerical Simulation in Applied Geophysics
+$59.99
+doi:10.1007/978-3-319-48457-0
+Geometry and Quantization of Moduli Spaces
+$29.99
+doi:10.1007/978-3-319-33578-0
+From Lévy-Type Processes to Parabolic SPDEs
+$29.99
+doi:10.1007/978-3-319-34120-0
+Diophantine Analysis
+$64.99
+doi:10.1007/978-3-319-48817-2
+Projective Geometry
+$39.99
+doi:10.1007/978-3-319-42824-6
+Analysis
+$44.99
+doi:10.1007/978-3-319-32411-1
+Foundations of Symmetric Spaces of Measurable Functions
+$64.99
+doi:10.1007/978-3-319-42758-4
+Representation Theory of Finite Monoids
+$64.99
+doi:10.1007/978-3-319-43932-7
+Methods of Applied Mathematics with a Software Overview
+$74.99
+doi:10.1007/978-3-319-43370-7
+Calculus and Analysis in Euclidean Space
+$54.99
+doi:10.1007/978-3-319-49314-5
+Methods of Solving Sequence and Series Problems
+$39.99
+doi:10.1007/978-3-319-45686-7
+Elementary Numerical Mathematics for Programmers and Engineers
+$39.99
+doi:10.1007/978-3-319-44660-8
+Algebra I
+$54.99
+doi:10.1007/978-3-319-45285-2
+Discrete Calculus
+$79.99
+doi:10.1007/978-3-319-03038-8
+Inverse Problems 
+$59.99
+doi:10.1007/978-3-319-48384-9
+Differential Equations
+$34.99
+doi:10.1007/978-3-319-45261-6
+Ergodic Theory and Dynamical Systems
+$29.99
+doi:10.1007/978-1-4471-7287-1
+Essentials of Stochastic Processes
+$64.99
+doi:10.1007/978-3-319-45614-0
+Elementary Functions
+$69.99
+doi:10.1007/978-1-4899-7983-4
+An Introduction to Special Functions
+$54.99
+doi:10.1007/978-3-319-41345-7
+Calculus Problems
+$29.99
+doi:10.1007/978-3-319-15428-2
+Ordinary Differential Equations: Basics and Beyond
+$69.99
+doi:10.1007/978-1-4939-6389-8
+An Introduction to Online Computation
+$79.99
+doi:10.1007/978-3-319-42749-2
+Geometry and Dynamics of Integrable Systems
+$24.99
+doi:10.1007/978-3-319-33503-2
+Statistical Learning from a Regression Perspective
+$59.99
+doi:10.1007/978-3-319-44048-4
+A Complex Analysis Problem Book
+$79.99
+doi:10.1007/978-3-319-42181-0
+Fundamentals of Functional Analysis
+$39.99
+doi:10.1007/978-3-319-45633-1
+Complex fluids
+$54.99
+doi:10.1007/978-3-319-44362-1
+Market-Consistent Actuarial Valuation
+$39.99
+doi:10.1007/978-3-319-46636-1
+Graph Theory
+$39.99
+doi:10.1007/978-3-319-31940-7
+Optimization by GRASP
+$69.99
+doi:10.1007/978-1-4939-6530-4
+Algorithmic Mathematics
+$54.99
+doi:10.1007/978-3-319-39558-6
+Parallelism in Matrix Computations
+$89.00
+doi:10.1007/978-94-017-7188-7
+Multiobjective Linear Programming
+$74.99
+doi:10.1007/978-3-319-21091-9
+Linear and Nonlinear Programming
+$89.00
+doi:10.1007/978-3-319-18842-3
+Mathematical Analysis and the Mathematics of Computation
+$84.99
+doi:10.1007/978-3-319-42755-3
+Analytic Function Theory of Several Variables
+$39.99
+doi:10.1007/978-981-10-0291-5
+Functional and Shape Data Analysis
+$79.99
+doi:10.1007/978-1-4939-4020-2
+Differential Geometry of Curves and Surfaces
+$29.99
+doi:10.1007/978-3-319-39799-3
+Number Theory
+$39.99
+doi:10.1007/978-3-319-43875-7
+Basic Algebraic Topology and its Applications
+$44.99
+doi:10.1007/978-81-322-2843-1
+Real Analysis
+$44.99
+doi:10.1007/978-1-4939-4005-9
+Computational Linear and Commutative Algebra
+$29.99
+doi:10.1007/978-3-319-43601-2
+Mathematical Tapas
+$19.99
+doi:10.1007/978-3-319-42186-5
+Algebra for Cryptologists
+$44.99
+doi:10.1007/978-3-319-30396-3
+Analysis I
+$59.99
+doi:10.1007/978-981-10-1789-6
+Introduction to the Theory of Standard Monomials
+$59.99
+doi:10.1007/978-981-10-1813-8
+Analysis II
+$59.99
+doi:10.1007/978-981-10-1804-6
+Strategy and Game Theory
+$84.99
+doi:10.1007/978-3-319-32963-5
+Multiple Criteria Decision Making by Multiobjective Optimization
+$54.99
+doi:10.1007/978-3-319-32756-3
+Mechanics and Mathematics of Fluids of the Differential Type
+$119.00
+doi:10.1007/978-3-319-39330-8
+Exercises in Analysis
+$59.99
+doi:10.1007/978-3-319-27817-9
+Operators on Hilbert Space
+$49.99
+doi:10.1007/978-981-10-1816-9
+Topics in Banach Space Theory
+$44.99
+doi:10.1007/978-3-319-31557-7
+Excel 2016 for Physical Sciences Statistics
+$59.99
+doi:10.1007/978-3-319-40075-4
+Manifolds, Sheaves, and Cohomology
+$59.99
+doi:10.1007/978-3-658-10633-1
+Search and Optimization by Metaheuristics
+$69.99
+doi:10.1007/978-3-319-41192-7
+A Primer on Scientific Programming with Python
+$59.99
+doi:10.1007/978-3-662-49887-3
+Programming for Computations  - MATLAB/Octave
+doi:10.1007/978-3-319-32452-4
+Winning at Litigation through Decision Analysis
+$69.99
+doi:10.1007/978-3-319-30040-5
+Programming for Computations - Python
+doi:10.1007/978-3-319-32428-9
+Stochastic Analysis for Finance with Simulations
+$44.99
+doi:10.1007/978-3-319-25589-7
+Uncertainty
+$64.99
+doi:10.1007/978-3-319-39756-6
+Linear Functional Analysis
+$39.99
+doi:10.1007/978-1-4471-7280-2
+Probability-1
+$39.99
+doi:10.1007/978-0-387-72206-1
+The Congruences of a Finite Lattice
+$69.99
+doi:10.1007/978-3-319-38798-7
+An Introductory Course in Lebesgue Spaces
+$39.99
+doi:10.1007/978-3-319-30034-4
+Homotopical Topology
+$44.99
+doi:10.1007/978-3-319-23488-5
+Fundamentals and Advanced Techniques in Derivatives Hedging
+$29.99
+doi:10.1007/978-3-319-38990-5
+Introduction to Probability with Statistical Applications
+$39.99
+doi:10.1007/978-3-319-30620-9
+Probabilistic Models of Population Evolution
+$19.99
+doi:10.1007/978-3-319-30328-4
+Approximation Methods in Probability Theory
+$29.99
+doi:10.1007/978-3-319-34072-2
+Linear Functional Analysis for Scientists and Engineers
+$29.99
+doi:10.1007/978-981-10-0972-3
+An Introduction to Mathematical Finance with Applications
+$39.99
+doi:10.1007/978-1-4939-3783-7
+Continuity Theory
+$79.99
+doi:10.1007/978-3-319-31159-3
+Lectures on Functional Analysis and the Lebesgue Integral
+$39.99
+doi:10.1007/978-1-4471-6811-9
+Finite Difference Computing with Exponential Decay Models
+doi:10.1007/978-3-319-29439-1
+Introduction to Scientific Computing and Data Analysis
+$69.99
+doi:10.1007/978-3-319-30256-0
+Numerical Approximation of Partial Differential Equations
+$44.99
+doi:10.1007/978-3-319-32354-1
+Writing Proofs in Analysis
+$29.99
+doi:10.1007/978-3-319-30967-5
+An Introduction to Frames and Riesz Bases
+$44.99
+doi:10.1007/978-3-319-25613-9
+A Fixed-Point Farrago
+$29.99
+doi:10.1007/978-3-319-27978-7
+Numerical Methods and Modelling for Engineering
+$69.99
+doi:10.1007/978-3-319-21176-3
+Ordered Sets
+$39.99
+doi:10.1007/978-3-319-29788-0
+Nonlinear Ordinary Differential Equations
+$69.99
+doi:10.1007/978-81-322-2812-7
+Real Analysis
+$29.99
+doi:10.1007/978-3-319-30744-2
+The Mathematics Behind Biological Invasions
+$39.99
+doi:10.1007/978-3-319-32043-4
+Introduction to Mathematical Biology
+$29.99
+doi:10.1007/978-3-319-29638-8
+Brownian Motion, Martingales, and Stochastic Calculus 
+$29.99
+doi:10.1007/978-3-319-31089-3
+Surfaces in Classical Geometries
+$44.99
+doi:10.1007/978-3-319-27076-0
+Harmonic Analysis on Symmetric Spaces—Higher Rank Spaces, Positive Definite Matrix Space and Generalizations
+$39.99
+doi:10.1007/978-1-4939-3408-9
+University of Toronto Mathematics Competition (2001–2015)
+$19.99
+doi:10.1007/978-3-319-28106-3
+Multiobjective Linear and Integer Programming
+$69.99
+doi:10.1007/978-3-319-28746-1
+A Cp-Theory Problem Book
+$64.99
+doi:10.1007/978-3-319-24385-6
+Generalized Principal Component Analysis
+$44.99
+doi:10.1007/978-0-387-87811-9
+Advanced Calculus of a Single Variable
+$29.99
+doi:10.1007/978-3-319-27807-0
+Limits of Computation
+$44.99
+doi:10.1007/978-3-319-27889-6
+Measure and Integration
+$79.99
+doi:10.1007/978-3-319-29046-1
+The Universe of Conics
+$69.99
+doi:10.1007/978-3-662-45450-3
+Riemannian Geometry
+$39.99
+doi:10.1007/978-3-319-26654-1
+Stochastic Integration by Parts and Functional Itô Calculus
+$19.99
+doi:10.1007/978-3-319-27128-6
+Excel 2013 for Physical Sciences Statistics
+$59.99
+doi:10.1007/978-3-319-28964-9
+Reduced Basis Methods for Partial Differential Equations
+$54.99
+doi:10.1007/978-3-319-15431-2
+The Spectrum of Hyperbolic Surfaces
+$39.99
+doi:10.1007/978-3-319-27666-3
+Mathematical Analysis II
+$69.99
+doi:10.1007/978-3-662-48993-2
+Several Real Variables
+$19.99
+doi:10.1007/978-3-319-27956-5
+Partial Differential Equations: Modeling, Analysis and Numerical Approximation
+$69.99
+doi:10.1007/978-3-319-27067-8
+Scheduling
+doi:10.1007/978-3-319-26580-3
+Introduction to Calculus and Classical Analysis
+$29.99
+doi:10.1007/978-3-319-28400-2
+Elements of Probability and Statistics
+$59.99
+doi:10.1007/978-3-319-07254-8
+Dual-Feasible Functions for Integer Programming and Combinatorial Optimization
+$69.99
+doi:10.1007/978-3-319-27604-5
+Mathematics in Everyday Life
+$19.99
+doi:10.1007/978-3-319-27939-8
+Waves and Compressible Flow
+$59.99
+doi:10.1007/978-1-4939-3381-5
+Model Predictive Control
+$74.99
+doi:10.1007/978-3-319-24853-0
+ Conceptual Basis of Quantum Mechanics
+$59.99
+doi:10.1007/978-3-319-24526-3
+Classical Mechanics with Maxima
+$44.99
+doi:10.1007/978-1-4939-3207-8
+Bayesian Inference
+$99.00
+doi:10.1007/978-3-662-06006-3
+Real Mathematical Analysis
+$44.99
+doi:10.1007/978-3-319-17771-7
+Mathematical Analysis I
+$59.99
+doi:10.1007/978-3-319-12772-9
+Mathematical Analysis II
+$59.99
+doi:10.1007/978-3-319-12757-6
+Stabilization and Regulation of Nonlinear Systems
+$74.99
+doi:10.1007/978-3-319-08834-1
+Game Theory
+$69.99
+doi:10.1007/978-3-662-46950-7
+Understanding Analysis
+$44.99
+doi:10.1007/978-1-4939-2712-8
+Differential Topology
+$59.99
+doi:10.1007/978-3-319-19045-7
+An Introduction to Modern Analysis
+$74.99
+doi:10.1007/978-3-319-12481-0
+How to Count
+$44.99
+doi:10.1007/978-3-319-13844-2
+The Mathematics of Medical Imaging
+$39.99
+doi:10.1007/978-3-319-22665-1
+Physics from Symmetry
+$39.99
+doi:10.1007/978-3-319-19201-7
+Methods of Solving Nonstandard Problems
+$39.99
+doi:10.1007/978-3-319-19887-3
+Parameterized Algorithms
+$54.99
+doi:10.1007/978-3-319-21275-3
+The Finite Volume Method in Computational Fluid Dynamics
+$99.00
+doi:10.1007/978-3-319-16874-6
+Non-Cooperative Game Theory
+$54.99
+doi:10.1007/978-4-431-55645-9
+An Introduction to Differential Manifolds
+$59.99
+doi:10.1007/978-3-319-20735-3
+Guide to Simulation and Modeling for Biosciences
+$59.99
+doi:10.1007/978-1-4471-6762-4
+Applied Number Theory
+$44.99
+doi:10.1007/978-3-319-22321-6
+Data Assimilation
+$54.99
+doi:10.1007/978-3-319-20325-6
+Ideals, Varieties, and Algorithms
+$54.99
+doi:10.1007/978-3-319-16721-3
+Lie Groups, Lie Algebras, and Representations
+$59.99
+doi:10.1007/978-3-319-13467-3
+A Guide to Numerical Modelling in Systems Biology
+$39.99
+doi:10.1007/978-3-319-20059-0
+A Cp-Theory Problem Book
+$69.99
+doi:10.1007/978-3-319-16092-4
+A First Course in Differential Equations
+$44.99
+doi:10.1007/978-3-319-17852-3
+Numerical Analysis Using Sage
+$44.99
+doi:10.1007/978-3-319-16739-8
+Mathematical Financial Economics
+$74.99
+doi:10.1007/978-3-319-16571-4
+Real Analysis via Sequences and Series
+$59.99
+doi:10.1007/978-1-4939-2651-0
+From Calculus to Analysis
+$54.99
+doi:10.1007/978-3-319-13641-7
+An Introduction to Continuous-Time Stochastic Processes
+$99.00
+doi:10.1007/978-1-4939-2757-9
+Sobolev Spaces, Their Generalizations and Elliptic Problems in Smooth and Lipschitz Domains
+$99.00
+doi:10.1007/978-3-319-14648-5
+Quadratic Diophantine Equations
+$54.99
+doi:10.1007/978-0-387-54109-9
+Molecular Dynamics
+$59.99
+doi:10.1007/978-3-319-16375-8
+The Nonlinear Schrödinger Equation
+$74.99
+doi:10.1007/978-3-319-12748-4
+Tensor Algebra and Tensor Analysis for Engineers
+$69.99
+doi:10.1007/978-3-319-16342-0
+Problems and Proofs in Numbers and Algebra
+$39.99
+doi:10.1007/978-3-319-14427-6
+Mathematical Methods in Physics
+$109.00
+doi:10.1007/978-3-319-14045-2
+Optimal Interconnection Trees in the Plane
+$59.99
+doi:10.1007/978-3-319-13915-9
+An Introduction to Tensors and Group Theory for Physicists
+$54.99
+doi:10.1007/978-3-319-14794-9
+Multiple Time Scale Dynamics
+$74.99
+doi:10.1007/978-3-319-12316-5
+Stability of Dynamical Systems
+$109.00
+doi:10.1007/978-3-319-15275-2
+Statistics and Data Analysis for Financial Engineering
+$74.99
+doi:10.1007/978-1-4939-2614-5
+Branching Processes in Biology
+$59.99
+doi:10.1007/978-1-4939-1559-0
+Noncommutative Geometry and Particle Physics
+$54.99
+doi:10.1007/978-94-017-9162-5
+The Whole Truth About Whole Numbers
+$39.99
+doi:10.1007/978-3-319-11035-6
+Linear Algebra Done Right
+$44.99
+doi:10.1007/978-3-319-11080-6
+Numerical Methods in Matrix Computations
+$74.99
+doi:10.1007/978-3-319-05089-8
+Quantum Theory
+$59.99
+doi:10.1007/978-3-319-09561-5
+Simulation-Based Optimization
+$74.99
+doi:10.1007/978-1-4899-7491-4
+Optimal Transport for Applied Mathematicians
+$59.99
+doi:10.1007/978-3-319-20828-2
+Special Topics in Mathematics for Computer Scientists
+$54.99
+doi:10.1007/978-3-319-22750-4
+An Introduction to Catalan Numbers
+$39.99
+doi:10.1007/978-3-319-22144-1
+An Introduction to Mathematical Epidemiology
+$59.99
+doi:10.1007/978-1-4899-7612-3
+Introduction to Quantum Information Science
+$64.99
+doi:10.1007/978-3-662-43502-1
+Introduction to Cryptography
+$54.99
+doi:10.1007/978-3-662-47974-2
+The Mathematical Theory of Time-Harmonic Maxwell's Equations
+$59.99
+doi:10.1007/978-3-319-11086-8
+Essentials of Measure Theory
+$54.99
+doi:10.1007/978-3-319-22506-7
+Operator Theoretic Aspects of Ergodic Theory
+$69.99
+doi:10.1007/978-3-319-16898-2
+Fundamentals of the Mechanics of Solids
+$59.99
+doi:10.1007/978-1-4939-3133-0
+Computing the Continuous Discretely
+$44.99
+doi:10.1007/978-1-4939-2969-6
+Real Analysis
+$44.99
+doi:10.1007/978-1-4939-2766-1
+Portfolio Analytics
+$69.99
+doi:10.1007/978-3-319-19812-5
+Eulerian Numbers
+$59.99
+doi:10.1007/978-1-4939-3091-3
+Nonholonomic Mechanics and Control
+$69.99
+doi:10.1007/978-1-4939-3017-3
+Turning Points in the History of Mathematics
+$39.99
+doi:10.1007/978-1-4939-3264-1
+A Textbook on Ordinary Differential Equations
+$19.99
+doi:10.1007/978-3-319-16408-3
+Mathematical Analysis I
+$59.99
+doi:10.1007/978-3-662-48792-1
+Discrete Fractional Calculus
+$59.99
+doi:10.1007/978-3-319-25562-0
+Moduli Spaces of Riemannian Metrics
+$14.99
+doi:10.1007/978-3-0348-0948-1
+Differential Equations: Methods and Applications
+$39.99
+doi:10.1007/978-3-319-25735-8
+Mathematica®: A Problem-Centered Approach
+$34.99
+doi:10.1007/978-3-319-27585-7
+Central Configurations, Periodic Orbits, and Hamiltonian Systems
+$29.99
+doi:10.1007/978-3-0348-0933-7
+Introduction to Uncertainty Quantification
+$69.99
+doi:10.1007/978-3-319-23395-6
+Front Tracking for Hyperbolic Conservation Laws
+$84.99
+doi:10.1007/978-3-662-47507-2
+An Introduction to Dynamical Systems and Chaos
+$84.99
+doi:10.1007/978-81-322-2556-0
+Measures of Symmetry for Convex Sets and Stability
+$59.99
+doi:10.1007/978-3-319-23733-6
+Learning MATLAB
+$39.99
+doi:10.1007/978-3-319-25327-5
