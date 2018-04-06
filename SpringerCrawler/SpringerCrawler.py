@@ -61,8 +61,8 @@ def fetch_doi(url, track):
 				file.write(price + "\n")
 			file.write("doi:" + str(doi_code.string) + "\n")
 
-file = open(filename, "w", encoding="utf-16")
-file2 = open(filename_2, "w", encoding="utf-16")
+file = open(filename, "a", encoding="utf-16")
+file2 = open(filename_2, "a", encoding="utf-16")
 
 for i in range(81, 101):
 	fetch(i)

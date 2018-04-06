@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>8dbbaed0-2096-4dda-8c13-1c20c1bd9146</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SpringerCrawler.py</StartupFile>
+    <StartupFile>TelegramBot.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,8 +21,20 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="check_price.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="scihub.py" />
     <Compile Include="SpringerCrawler.py" />
+    <Compile Include="TelegramBot.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="doi_expanded.txt" />
+    <Content Include="doi_raw2.txt" />
+    <Content Include="doi_raw.txt" />
+    <Content Include="script.ahk" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
