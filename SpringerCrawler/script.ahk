@@ -20,11 +20,11 @@ Loop, read, C:\Users\tristan\source\repos\SpringerCrawler\SpringerCrawler\doi_ra
 	Sleep, 200
 	Send, {Enter}
 	; Retrieve color at this spot
-	Sleep, 5000
-	MouseMove, 159, 1064
-	MouseClick, left
+	;Sleep, 3000
+	;MouseMove, 159, 1064
+	;MouseClick, left
 	Sleep, 400
-	Send, {Enter}
+	;Send, {Enter}
 }
 Return
 
